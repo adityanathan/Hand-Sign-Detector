@@ -1,4 +1,4 @@
-# Sign-language-detector
+# Hand Gesture Detector
 
 ## Requirements
 - `pytorch`
